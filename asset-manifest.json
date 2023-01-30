@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.504a18c2.css",
+    "main.js": "/static/js/main.7dc5e468.js",
+    "static/media/theresto.png": "/static/media/theresto.3a24b063714435e17967.png",
+    "static/media/nitflex.png": "/static/media/nitflex.18090c6e97d113befd54.png",
+    "static/media/ohmyfood.png": "/static/media/ohmyfood.bd883645e73b8815e2e8.png",
+    "static/media/kanap.png": "/static/media/kanap.2c32b29f38cd5865aefe.png",
+    "static/media/blogApp.png": "/static/media/blogApp.5e83c9314e7cf88c0fe8.png",
+    "static/media/metaversus.png": "/static/media/metaversus.03a1976421965e078346.png",
+    "static/media/groupomania.png": "/static/media/groupomania.6ff64dda393b5d322682.png",
+    "static/media/clone-tube.png": "/static/media/clone-tube.2f7eb48aa7b52d8f0ba2.png",
+    "static/media/Krypt.png": "/static/media/Krypt.e2f1571b2b79ee4b93d4.png",
+    "static/media/panthere.png": "/static/media/panthere.9ae35280e95c3eaa320a.png",
+    "static/media/arnaudlt293.png": "/static/media/arnaudlt293.2dff31c436f8b9cdcb5c.png",
+    "static/media/heroImage.jpg": "/static/media/heroImage.506103987af8483078d5.jpg",
+    "static/media/crypto_desktop.png": "/static/media/crypto_desktop.c8d10fb7a9806595e7f3.png",
+    "static/media/graphQL.png": "/static/media/graphQL.fc6b9451733c620ceb86.png",
+    "static/media/Solidity.png": "/static/media/Solidity.4acc689cac583dc315ef.png",
+    "static/media/metamask.png": "/static/media/metamask.5bf1b8a1088338aa35fb.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/rapidapi.webp": "/static/media/rapidapi.388790420fefc5fc250e.webp",
+    "index.html": "/index.html",
+    "main.504a18c2.css.map": "/static/css/main.504a18c2.css.map",
+    "main.7dc5e468.js.map": "/static/js/main.7dc5e468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.504a18c2.css",
+    "static/js/main.7dc5e468.js"
+  ]
+}
